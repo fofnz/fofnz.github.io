@@ -1,8 +1,10 @@
 ---
 published: true
 layout: default
-
-title:A <a href="https://fofnz.github.io/exhibit/about">About</a>
 category: section
+title: "<a href=\"https://fofnz.github.io/about\">About</a>"
 ---
 
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
