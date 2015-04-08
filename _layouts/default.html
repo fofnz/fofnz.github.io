@@ -9,12 +9,12 @@
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>Stories</title>
+					<title>SP24/7</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
 		{% else %}
-			<title>Stories</title>
+			<title>SP24/7</title>
 			<meta name='description' content="{{page.content | truncate: 50 }}" />
 		{% endif %}
 		<meta name='author' content="{{ site.author }}" />
@@ -27,7 +27,7 @@
 		<div id='index'>
 			<div class='container'>
 				<div class='top'>
-					<p><strong><a href='/' style='color: black;'>STORIES</a></strong></p>
+					<p><strong><a href='/' style='color: black;'>SP24/7</a></strong></p>
 				</div>
 				{% for section in site.categories.section %}
 					<ul class='section' id='section_{{ section.id }}'>
