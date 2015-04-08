@@ -2,7 +2,7 @@
 published: true
 layout: default
 category: section
-title: "<a href=\"https://github.com/uzuru/uzuru.github.io\">Archive</a>"
+title: "<a href=\"https://fofnz.github.io/archive\">Archive</a>"
 ---
 
 ## A New Post
