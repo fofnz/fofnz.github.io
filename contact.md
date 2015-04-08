@@ -9,12 +9,12 @@ layout: default
 <br>
 <a href="mailto:tom@sp247.org">tom@sp247.org</a>
 <br><br>
-Daniel Nield
+<u>Daniel Nield</u>
 <br>
-dan@sp247.org
+<a href="mailto:dan@sp247.org">dan@sp247.org</a>
 <br><br>
-Robert Gorrie
+<u>Robert Gorrie</u>
 <br>
-rob@sp247.org
+<a href="mailto:rob@sp247.org">rob@sp247.org</a>
 <br><br>
 <br><br>
