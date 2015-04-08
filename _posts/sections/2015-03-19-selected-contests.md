@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: A project by <a href="http://tomhackshaw.com">Tom Hackshaw</a>
+title:<a href="http://fofnz.github.io/exhibit/about">About</a>
 category: section
 ---
 
