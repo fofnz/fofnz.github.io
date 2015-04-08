@@ -1,4 +1,7 @@
-
+---
+published: true
+layout: default
+---
 
 <i>EMAIL</i> -
 <br><br>
