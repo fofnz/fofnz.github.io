@@ -2,7 +2,7 @@
 published: true
 layout: default
 category: section
-title: "<a href=\"https://fofnz.github.io/archive\">Archive</a>"
+title: "<a href=\"https://fofnz.github.io/archive\">Previous</a>"
 ---
 
 ## A New Post
