@@ -4,4 +4,4 @@ layout: default
 published: true
 ---
 
-<img src="http://imgur.com/hEgpars" >
+<a href="http://imgur.com/hEgpars"><img src="http://i.imgur.com/hEgpars.jpg" title="source: imgur.com" /></a>
