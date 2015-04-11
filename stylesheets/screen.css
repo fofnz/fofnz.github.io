@@ -24,6 +24,9 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+.alignright { text-align: right; }
+
+
 /* line 20, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 body {
   line-height: 1;
