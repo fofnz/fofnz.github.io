@@ -18,7 +18,7 @@ layout: default
     <p class="monaco"><a href="http://window.auckland.ac.nz/archive/2015/2b/letters.html">Letters &gt;</a></p></td>
 
 
-<a href="https://fofnz.github.io/product1"><img src="https://i.imgur.com/hEgpars.jpg" title="Kat Gu" width="476" height="365" align="top-right" /></a>                                                      
+<a href="https://fofnz.github.io/product1"><img src="https://i.imgur.com/hEgpars.jpg" title="Kat Gu" width="476" height="365" align="right" /></a>                                                      
 <br>
 
 
