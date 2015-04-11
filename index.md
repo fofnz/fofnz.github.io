@@ -4,13 +4,13 @@ layout: default
 published: true
 ---
 <ul id="grid">
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
 
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
-  <li><img src=""https://i.imgur.com/hEgpars.jpg" "/></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
+  <li><img src="https://i.imgur.com/hEgpars.jpg"></li>
 </ul>
 
 ul#grid li {
