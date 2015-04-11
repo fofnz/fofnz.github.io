@@ -42,7 +42,7 @@ table {
 
 /* line 26, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
-  text-align: left;
+  text-align: right;
   font-weight: normal;
   vertical-align: middle;
 }
