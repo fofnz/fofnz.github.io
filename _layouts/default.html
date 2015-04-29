@@ -9,12 +9,12 @@
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>S P 2 4 / 7</title>
+					<title>Stories</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
 		{% else %}
-			<title>S P 2 4 / 7</title>
+			<title>Stories</title>
 			<meta name='description' content="{{page.content | truncate: 50 }}" />
 		{% endif %}
 		<meta name='author' content="{{ site.author }}" />
@@ -27,7 +27,7 @@
 		<div id='index'>
 			<div class='container'>
 				<div class='top'>
-					<p><strong><a href='/'</a><img src="http://i.imgur.com/uKXCQC0.png" title="SP24/7" /></a></strong></p>
+					<p><strong><a href='/' style='color: black;'>STORIES</a></strong></p>
 				</div>
 				{% for section in site.categories.section %}
 					<ul class='section' id='section_{{ section.id }}'>
@@ -44,7 +44,7 @@
 				{%  endfor %}
 				<div class='bot'><p><br />
           
-				<p><a href='https://github.com/colaborativa/Jekyllxhibit'>Join</a></p></div>
+				<p><a href='https://github.com/colaborativa/Jekyllxhibit'>Built with Jekyllxhibit</a></p></div>
 			</div>
 		</div>
 		{% if page.title == 'stories' %}
